@@ -5,6 +5,8 @@
 <configuration>
     <properties resource="jdbc.properties"/>
 
+
+    
     <!--完整的settings-->
     <settings>
         <!--开启二级缓存开关-->
@@ -28,6 +30,10 @@
 <!--        <setting name="jdbcTypeForNull" value="OTHER"/>-->
 <!--        <setting name="lazyLoadTriggerMethods" value="equals,clone,hashCode,toString"/>-->
     </settings>
+
+    <plugins>
+        <plugin interceptor="com.github.pagehelper.PageInterceptor"/>
+    </plugins>
 
 <!--    default表示当前正在使用的环境-->
     <environments default="development">
@@ -59,6 +65,8 @@
 
 
     <mappers>
+<!--        <package name="cn/melon/dao"/>-->
+        <mapper resource="UserMapper.xml"/>
     </mappers>
 </configuration>
 
