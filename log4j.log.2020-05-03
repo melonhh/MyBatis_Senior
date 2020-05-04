@@ -1,0 +1,279 @@
+2020-05-03 21:49:39,948 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 21:49:39,950 DEBUG Retrieving column information for table "users"
+2020-05-03 21:49:40,010 DEBUG Found column "USER", data type 1, in table "performance_schema..users"
+2020-05-03 21:49:40,011 DEBUG Found column "CURRENT_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 21:49:40,011 DEBUG Found column "TOTAL_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 21:49:40,011 DEBUG Found column "id", data type 4, in table "test..users"
+2020-05-03 21:49:40,012 DEBUG Found column "username", data type 12, in table "test..users"
+2020-05-03 21:49:40,012 DEBUG Found column "password", data type 12, in table "test..users"
+2020-05-03 21:49:40,012 DEBUG Found column "reg_date", data type 93, in table "test..users"
+2020-05-03 21:49:40,013 DEBUG Found column "state", data type 4, in table "test..users"
+2020-05-03 21:49:40,029 DEBUG Retrieving column information for table "roles"
+2020-05-03 21:49:40,033 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 21:49:40,034 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 21:49:40,034 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 21:49:40,039 DEBUG Retrieving column information for table "person"
+2020-05-03 21:49:40,044 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 21:49:40,044 DEBUG Found column "pName", data type 12, in table "test..person"
+2020-05-03 21:49:40,045 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:00:22,721 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 22:00:22,722 DEBUG Retrieving column information for table "users"
+2020-05-03 22:00:22,759 DEBUG Found column "USER", data type 1, in table "performance_schema..users"
+2020-05-03 22:00:22,760 DEBUG Found column "CURRENT_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:00:22,760 DEBUG Found column "TOTAL_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:00:22,760 DEBUG Found column "id", data type 4, in table "test..users"
+2020-05-03 22:00:22,760 DEBUG Found column "username", data type 12, in table "test..users"
+2020-05-03 22:00:22,761 DEBUG Found column "password", data type 12, in table "test..users"
+2020-05-03 22:00:22,761 DEBUG Found column "reg_date", data type 93, in table "test..users"
+2020-05-03 22:00:22,761 DEBUG Found column "state", data type 4, in table "test..users"
+2020-05-03 22:00:22,773 DEBUG Retrieving column information for table "roles"
+2020-05-03 22:00:22,778 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 22:00:22,778 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 22:00:22,778 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 22:00:22,783 DEBUG Retrieving column information for table "person"
+2020-05-03 22:00:22,787 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 22:00:22,787 DEBUG Found column "pname", data type 12, in table "test..person"
+2020-05-03 22:00:22,787 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:04:58,285 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 22:04:58,288 DEBUG Retrieving column information for table "users"
+2020-05-03 22:04:58,448 DEBUG Found column "USER", data type 1, in table "performance_schema..users"
+2020-05-03 22:04:58,448 DEBUG Found column "CURRENT_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:04:58,448 DEBUG Found column "TOTAL_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:04:58,448 DEBUG Found column "id", data type 4, in table "test..users"
+2020-05-03 22:04:58,448 DEBUG Found column "username", data type 12, in table "test..users"
+2020-05-03 22:04:58,449 DEBUG Found column "password", data type 12, in table "test..users"
+2020-05-03 22:04:58,449 DEBUG Found column "reg_date", data type 93, in table "test..users"
+2020-05-03 22:04:58,449 DEBUG Found column "state", data type 4, in table "test..users"
+2020-05-03 22:04:58,463 DEBUG Retrieving column information for table "roles"
+2020-05-03 22:04:58,468 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 22:04:58,468 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 22:04:58,468 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 22:04:58,473 DEBUG Retrieving column information for table "person"
+2020-05-03 22:04:58,477 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 22:04:58,477 DEBUG Found column "pname", data type 12, in table "test..person"
+2020-05-03 22:04:58,478 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:06:05,006 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 22:06:05,007 DEBUG Retrieving column information for table "users"
+2020-05-03 22:06:05,036 DEBUG Found column "USER", data type 1, in table "performance_schema..users"
+2020-05-03 22:06:05,036 DEBUG Found column "CURRENT_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:06:05,037 DEBUG Found column "TOTAL_CONNECTIONS", data type -5, in table "performance_schema..users"
+2020-05-03 22:06:05,037 DEBUG Found column "id", data type 4, in table "test..users"
+2020-05-03 22:06:05,037 DEBUG Found column "username", data type 12, in table "test..users"
+2020-05-03 22:06:05,037 DEBUG Found column "password", data type 12, in table "test..users"
+2020-05-03 22:06:05,037 DEBUG Found column "reg_date", data type 93, in table "test..users"
+2020-05-03 22:06:05,037 DEBUG Found column "state", data type 4, in table "test..users"
+2020-05-03 22:06:05,047 DEBUG Retrieving column information for table "roles"
+2020-05-03 22:06:05,051 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 22:06:05,051 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 22:06:05,051 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 22:06:05,055 DEBUG Retrieving column information for table "person"
+2020-05-03 22:06:05,058 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 22:06:05,058 DEBUG Found column "pname", data type 12, in table "test..person"
+2020-05-03 22:06:05,058 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:06:56,134 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 22:06:56,136 DEBUG Retrieving column information for table "user"
+2020-05-03 22:06:56,183 DEBUG Found column "Host", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,184 DEBUG Found column "User", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,184 DEBUG Found column "Select_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,185 DEBUG Found column "Insert_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,185 DEBUG Found column "Update_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,185 DEBUG Found column "Delete_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,185 DEBUG Found column "Create_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,186 DEBUG Found column "Drop_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,186 DEBUG Found column "Reload_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,186 DEBUG Found column "Shutdown_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,186 DEBUG Found column "Process_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,186 DEBUG Found column "File_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,187 DEBUG Found column "Grant_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,187 DEBUG Found column "References_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,187 DEBUG Found column "Index_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,191 DEBUG Found column "Alter_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,191 DEBUG Found column "Show_db_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,192 DEBUG Found column "Super_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,192 DEBUG Found column "Create_tmp_table_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,192 DEBUG Found column "Lock_tables_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,192 DEBUG Found column "Execute_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,192 DEBUG Found column "Repl_slave_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Repl_client_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Create_view_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Show_view_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Create_routine_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Alter_routine_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,193 DEBUG Found column "Create_user_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "Event_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "Trigger_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "Create_tablespace_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "ssl_type", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "ssl_cipher", data type -4, in table "mysql..user"
+2020-05-03 22:06:56,194 DEBUG Found column "x509_issuer", data type -4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "x509_subject", data type -4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "max_questions", data type 4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "max_updates", data type 4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "max_connections", data type 4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "max_user_connections", data type 4, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "plugin", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,195 DEBUG Found column "authentication_string", data type -1, in table "mysql..user"
+2020-05-03 22:06:56,196 DEBUG Found column "password_expired", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,196 DEBUG Found column "password_last_changed", data type 93, in table "mysql..user"
+2020-05-03 22:06:56,196 DEBUG Found column "password_lifetime", data type 5, in table "mysql..user"
+2020-05-03 22:06:56,196 DEBUG Found column "account_locked", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,196 DEBUG Found column "Create_role_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "Drop_role_priv", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "Password_reuse_history", data type 5, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "Password_reuse_time", data type 5, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "Password_require_current", data type 1, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "User_attributes", data type -1, in table "mysql..user"
+2020-05-03 22:06:56,197 DEBUG Found column "username", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "password", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "kind", data type 4, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "email", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "address", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "phoneNo", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,198 DEBUG Found column "sex", data type 12, in table "petonline..user"
+2020-05-03 22:06:56,199 DEBUG Found column "birthday", data type 91, in table "petonline..user"
+2020-05-03 22:06:56,199 DEBUG Found column "id", data type 4, in table "test..user"
+2020-05-03 22:06:56,199 DEBUG Found column "username", data type 12, in table "test..user"
+2020-05-03 22:06:56,199 DEBUG Found column "password", data type 12, in table "test..user"
+2020-05-03 22:06:56,199 DEBUG Found column "reg_date", data type 93, in table "test..user"
+2020-05-03 22:06:56,199 DEBUG Found column "state", data type 4, in table "test..user"
+2020-05-03 22:06:56,224 DEBUG Retrieving column information for table "roles"
+2020-05-03 22:06:56,228 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 22:06:56,228 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 22:06:56,229 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 22:06:56,233 DEBUG Retrieving column information for table "person"
+2020-05-03 22:06:56,237 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 22:06:56,237 DEBUG Found column "pname", data type 12, in table "test..person"
+2020-05-03 22:06:56,237 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:09:04,749 DEBUG Logging initialized using 'org.mybatis.generator.logging.slf4j.Slf4jLoggingLogFactory@397fbdb' adapter.
+2020-05-03 22:09:04,750 DEBUG Retrieving column information for table "sb_user"
+2020-05-03 22:09:04,802 DEBUG Found column "id", data type 4, in table "test..sb_user"
+2020-05-03 22:09:04,802 DEBUG Found column "username", data type 12, in table "test..sb_user"
+2020-05-03 22:09:04,802 DEBUG Found column "password", data type 12, in table "test..sb_user"
+2020-05-03 22:09:04,802 DEBUG Found column "reg_date", data type 93, in table "test..sb_user"
+2020-05-03 22:09:04,802 DEBUG Found column "state", data type 4, in table "test..sb_user"
+2020-05-03 22:09:04,810 DEBUG Retrieving column information for table "roles"
+2020-05-03 22:09:04,813 DEBUG Found column "id", data type 4, in table "test..roles"
+2020-05-03 22:09:04,813 DEBUG Found column "role_name", data type 12, in table "test..roles"
+2020-05-03 22:09:04,813 DEBUG Found column "rstate", data type 4, in table "test..roles"
+2020-05-03 22:09:04,816 DEBUG Retrieving column information for table "person"
+2020-05-03 22:09:04,819 DEBUG Found column "id", data type 4, in table "test..person"
+2020-05-03 22:09:04,819 DEBUG Found column "pname", data type 12, in table "test..person"
+2020-05-03 22:09:04,819 DEBUG Found column "rid", data type 4, in table "test..person"
+2020-05-03 22:10:33,893 DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-05-03 22:10:33,903 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:10:33,903 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:10:33,903 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:10:33,903 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:10:34,072 DEBUG Created connection 1881901842.
+2020-05-03 22:10:34,073 DEBUG Returned connection 1881901842 to pool.
+2020-05-03 22:10:34,077 DEBUG Class not found: org.jboss.vfs.VFS
+2020-05-03 22:10:34,077 DEBUG JBoss 6 VFS API is not available in this environment.
+2020-05-03 22:10:34,077 DEBUG Class not found: org.jboss.vfs.VirtualFile
+2020-05-03 22:10:34,077 DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-03 22:10:34,077 DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-03 22:10:34,078 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:10:34,078 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:10:34,128 DEBUG Reader entry: PersonMapper.class
+2020-05-03 22:10:34,128 DEBUG Reader entry: RoleMapper.class
+2020-05-03 22:10:34,128 DEBUG Reader entry: UserMapper.class
+2020-05-03 22:10:34,129 DEBUG Listing file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:10:34,129 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:10:34,129 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:10:34,130 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Person;)I insertSelective selectByPrimaryKey ,(Ljava/lang/Integer;)Lcn/melon/model/Person; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:10:34,133 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:10:34,133 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:10:34,134 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Role;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/Role; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:10:34,136 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:10:34,136 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:10:34,136 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/User;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/User; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:10:34,138 DEBUG Checking to see if class cn.melon.dao.PersonMapper matches criteria [is assignable to Object]
+2020-05-03 22:10:34,139 DEBUG Checking to see if class cn.melon.dao.RoleMapper matches criteria [is assignable to Object]
+2020-05-03 22:10:34,139 DEBUG Checking to see if class cn.melon.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-03 22:13:29,583 DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-05-03 22:13:29,592 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:13:29,592 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:13:29,592 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:13:29,592 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:13:29,780 DEBUG Created connection 1881901842.
+2020-05-03 22:13:29,782 DEBUG Returned connection 1881901842 to pool.
+2020-05-03 22:13:29,786 DEBUG Class not found: org.jboss.vfs.VFS
+2020-05-03 22:13:29,786 DEBUG JBoss 6 VFS API is not available in this environment.
+2020-05-03 22:13:29,787 DEBUG Class not found: org.jboss.vfs.VirtualFile
+2020-05-03 22:13:29,787 DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-03 22:13:29,788 DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-03 22:23:40,660 DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-05-03 22:23:40,667 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:23:40,667 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:23:40,667 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:23:40,667 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:23:40,847 DEBUG Created connection 1881901842.
+2020-05-03 22:23:40,848 DEBUG Returned connection 1881901842 to pool.
+2020-05-03 22:23:40,850 DEBUG Class not found: org.jboss.vfs.VFS
+2020-05-03 22:23:40,850 DEBUG JBoss 6 VFS API is not available in this environment.
+2020-05-03 22:23:40,851 DEBUG Class not found: org.jboss.vfs.VirtualFile
+2020-05-03 22:23:40,851 DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-03 22:23:40,851 DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-03 22:23:40,851 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:23:40,851 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:23:40,886 DEBUG Reader entry: PersonMapper.class
+2020-05-03 22:23:40,887 DEBUG Reader entry: RoleMapper.class
+2020-05-03 22:23:40,887 DEBUG Reader entry: UserMapper.class
+2020-05-03 22:23:40,887 DEBUG Listing file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:23:40,888 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:23:40,888 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:23:40,888 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Person;)I insertSelective selectByPrimaryKey ,(Ljava/lang/Integer;)Lcn/melon/model/Person; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:23:40,891 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:23:40,891 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:23:40,891 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Role;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/Role; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:23:40,893 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:23:40,893 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:23:40,893 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/User;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/User; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:23:40,895 DEBUG Checking to see if class cn.melon.dao.PersonMapper matches criteria [is assignable to Object]
+2020-05-03 22:23:40,895 DEBUG Checking to see if class cn.melon.dao.RoleMapper matches criteria [is assignable to Object]
+2020-05-03 22:23:40,895 DEBUG Checking to see if class cn.melon.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-03 22:25:35,004 DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-05-03 22:25:35,014 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:25:35,014 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:25:35,014 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:25:35,014 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:25:35,181 DEBUG Created connection 1881901842.
+2020-05-03 22:25:35,182 DEBUG Returned connection 1881901842 to pool.
+2020-05-03 22:25:35,184 DEBUG Class not found: org.jboss.vfs.VFS
+2020-05-03 22:25:35,184 DEBUG JBoss 6 VFS API is not available in this environment.
+2020-05-03 22:25:35,185 DEBUG Class not found: org.jboss.vfs.VirtualFile
+2020-05-03 22:25:35,185 DEBUG VFS implementation org.apache.ibatis.io.JBoss6VFS is not valid in this environment.
+2020-05-03 22:25:35,185 DEBUG Using VFS adapter org.apache.ibatis.io.DefaultVFS
+2020-05-03 22:25:35,185 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:25:35,186 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:25:35,231 DEBUG Reader entry: PersonMapper.class
+2020-05-03 22:25:35,231 DEBUG Reader entry: RoleMapper.class
+2020-05-03 22:25:35,232 DEBUG Reader entry: UserMapper.class
+2020-05-03 22:25:35,232 DEBUG Listing file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao
+2020-05-03 22:25:35,232 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:25:35,232 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/PersonMapper.class
+2020-05-03 22:25:35,233 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Person;)I insertSelective selectByPrimaryKey ,(Ljava/lang/Integer;)Lcn/melon/model/Person; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:25:35,235 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:25:35,235 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/RoleMapper.class
+2020-05-03 22:25:35,235 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/Role;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/Role; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:25:35,236 DEBUG Find JAR URL: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:25:35,236 DEBUG Not a JAR: file:/F:/IdeaProjects/MyBatis_Senior/MyBatis_Senior/target/classes/cn/melon/dao/UserMapper.class
+2020-05-03 22:25:35,236 DEBUG Reader entry: ����   3    deleteByPrimaryKey (Ljava/lang/Integer;)I insert (Lcn/melon/model/User;)I insertSelective selectByPrimaryKey *(Ljava/lang/Integer;)Lcn/melon/model/User; updateByPrimaryKeySelective updateByPrimaryKey 
+2020-05-03 22:25:35,238 DEBUG Checking to see if class cn.melon.dao.PersonMapper matches criteria [is assignable to Object]
+2020-05-03 22:25:35,239 DEBUG Checking to see if class cn.melon.dao.RoleMapper matches criteria [is assignable to Object]
+2020-05-03 22:25:35,239 DEBUG Checking to see if class cn.melon.dao.UserMapper matches criteria [is assignable to Object]
+2020-05-03 22:26:44,704 DEBUG Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+2020-05-03 22:26:44,715 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:26:44,715 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:26:44,715 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:26:44,715 DEBUG PooledDataSource forcefully closed/removed all connections.
+2020-05-03 22:26:44,886 DEBUG Created connection 1881901842.
+2020-05-03 22:26:44,888 DEBUG Returned connection 1881901842 to pool.
+2020-05-03 22:26:44,963 DEBUG Opening JDBC Connection
+2020-05-03 22:26:44,963 DEBUG Checked out connection 1881901842 from pool.
+2020-05-03 22:26:44,963 DEBUG Setting autocommit to false on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@702b8b12]
+2020-05-03 22:26:44,966 DEBUG ==>  Preparing: select id, username, password, reg_date, state from sb_user where id = ? 
+2020-05-03 22:26:45,002 DEBUG ==> Parameters: 1(Integer)
+2020-05-03 22:26:45,040 DEBUG <==      Total: 1
+2020-05-03 22:26:45,051 DEBUG Resetting autocommit to true on JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@702b8b12]
+2020-05-03 22:26:45,052 DEBUG Closing JDBC Connection [com.mysql.cj.jdbc.ConnectionImpl@702b8b12]
+2020-05-03 22:26:45,052 DEBUG Returned connection 1881901842 to pool.

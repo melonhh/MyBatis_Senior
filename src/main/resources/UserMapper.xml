@@ -17,6 +17,14 @@
     from sb_user
     where id = #{id,jdbcType=INTEGER}
   </select>
+  <select id="selectAllUser" resultMap="BaseResultMap">
+    select
+    <include refid="Base_Column_List"/>
+    from sb_user
+  </select>
+  <select id="selectSomeUser" statementType="CALLABLE" resultMap="BaseResultMap">
+    {call someUsers(#{start_id}, #{end_id})}
+  </select>
   <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
     delete from sb_user
     where id = #{id,jdbcType=INTEGER}
