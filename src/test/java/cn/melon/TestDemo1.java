@@ -23,12 +23,12 @@ public class TestDemo1 {
 
     @Test
     public void test1() {
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
-            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
-
-            User user = userMapper.selectByPrimaryKey(1);
-
-            System.out.println(user);
-        }
+//        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
+//            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+//
+//            User user = userMapper.selectByPrimaryKey(1);
+//
+//            System.out.println(user);
+//        }
     }
 }

@@ -27,11 +27,11 @@ public class ProcedureTest {
      */
     @Test
     public void test1() {
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
-            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
-
-            List<User> users = userMapper.selectSomeUser(1,4);
-            System.out.println(users);
-        }
+//        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
+//            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+//
+//            List<User> users = userMapper.selectSomeUser(1,4);
+//            System.out.println(users);
+//        }
     }
 }

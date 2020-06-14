@@ -27,24 +27,24 @@ public class PageHelperTest {
 
     @Test
     public void test1() {
-        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
-            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
-            Page<User> page = PageHelper.startPage(1,5);
-            List<User> users = userMapper.selectAllUser();
-            for(User user: users) {
-                System.out.println(user);
-                System.out.println(page.getPageNum());
-            }
-
-            page = PageHelper.startPage(2, 5);
-            users = userMapper.selectAllUser();
-            for(User user: users) {
-                System.out.println(user);
-                System.out.println(page.getPageNum());
-            }
+//        try(SqlSession sqlSession = sqlSessionFactory.openSession()) {
+//            UserMapper userMapper = sqlSession.getMapper(UserMapper.class);
+//            Page<User> page = PageHelper.startPage(1,5);
+//            List<User> users = userMapper.selectAllUser();
+//            for(User user: users) {
+//                System.out.println(user);
+//                System.out.println(page.getPageNum());
+//            }
+//
+//            page = PageHelper.startPage(2, 5);
+//            users = userMapper.selectAllUser();
+//            for(User user: users) {
+//                System.out.println(user);
+//                System.out.println(page.getPageNum());
+//            }
 //            PageInfo<User> info = new PageInfo<>(page);
 //            System.out.println(info.toString());
 //            System.out.println(page.toString());
-        }
+//        }
     }
 }

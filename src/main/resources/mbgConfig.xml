@@ -14,9 +14,10 @@
 
         <!--基础的数据库连接-->
         <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
-                        connectionURL="jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=FALSE&amp;serverTimezone=Asia/Shanghai"
+                        connectionURL="jdbc:mysql://localhost:3306/mrp?useUnicode=true&amp;characterEncoding=UTF8&amp;useSSL=FALSE&amp;serverTimezone=Asia/Shanghai"
                         userId="root"
-                        password="dwj123##">
+                        password="dwj123##"
+                        >
         </jdbcConnection>
 
         <!--Java类型解析器, 目前也就只有forceBigDecimals可以给你玩-->
@@ -51,15 +52,19 @@
         <!--字段命名策略过程: <columnRenamingRule> >> property name="useActualColumnNames"-->
         <!--alias属性是个神器, 会为所有SQL都添加, 做关联的时候就非常方便了-->
         <!--至于什么Example, 全关了就是-->
-        <table tableName="sb_user" domainObjectName="User"
+        <table tableName="bom" domainObjectName="Bom"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false"/>
-        <table tableName="roles" domainObjectName="Role"
+        <table tableName="coa" domainObjectName="Coa"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false"/>
-        <table tableName="person" domainObjectName="Person"
+        <table tableName="mas" domainObjectName="Mas"
+               enableCountByExample="false" enableUpdateByExample="false"
+               enableDeleteByExample="false" enableSelectByExample="false"
+               selectByExampleQueryId="false"/>
+        <table tableName="stock" domainObjectName="Stocl"
                enableCountByExample="false" enableUpdateByExample="false"
                enableDeleteByExample="false" enableSelectByExample="false"
                selectByExampleQueryId="false"/>
